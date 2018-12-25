@@ -2,7 +2,7 @@
 This is an adaptation of the popular TRex game. Instead of a terrifying prehistoric creature, you'll be helping an adorable pup named Cheeto avoid peril.
 
 
-![Run Cheeto Run](https://github.com/lkdbns/run-cheeto-run/demo.gif "Run Cheeto Run")
+![Run Cheeto Run](/demo.gif?raw=true)
 
 
 ---
