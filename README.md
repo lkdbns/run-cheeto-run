@@ -1,10 +1,6 @@
-# Trex game Flutter edition
+# Run Cheeto Run!
+This is an adaptation of the popular TRex game. Instead of a terrifying prehistoric creature, you'll be helping an adorable pup named Cheeto avoid peril.
 
-![https://cdn-images-1.medium.com/max/1600/1*BadLUm5ZzpcS34eTVQAz5g.gif](https://cdn-images-1.medium.com/max/1600/1*BadLUm5ZzpcS34eTVQAz5g.gif)
+---
+Forked from [TRex Flame](https://github.com/renancaraujo/trex-flame). Built with [Flutter](https://github.com/flutter/flutter) and [Flame](https://github.com/luanpotter/flame)
 
-The joy of our offline hours recreated with [Flutter](https://github.com/flutter/flutter) and [Flame](https://github.com/luanpotter/flame)
-
-
-# Article
-
-https://medium.com/dextra-digital/creating-the-t-rex-game-with-flutter-and-flame-6d01add1ad5b
